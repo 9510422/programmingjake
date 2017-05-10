@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to programmingjake
+## Jake Soulier
+## 2017
 
 You can use the [editor on GitHub](https://github.com/9510422/programmingjake/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
